@@ -1,0 +1,43 @@
+1. Write a Kotlin function that takes a 'name' as an argument and prints a personalized greeting message to the user.
+
+2. Write a Kotlin function that takes an array of integers and prints only even numbers.
+
+3. Write a Kotlin function `countVowels` that counts the number of vowels in a given string.
+
+4. Write a Kotlin function that reverses a given string.
+
+5. Write a Kotlin function that checks if a string is a palindrome or not.
+
+6. Write a Kotlin function that prints a message and does not return anything.
+
+7. Write a Kotlin function that calculates and returns the area of a rectangle. It should take 'length' and 'width' as arguments, with default values of 0.0.
+
+8. Write a Kotlin function that calculates the Body Mass Index (BMI) of a person. The function should take the height (in meters) and weight (in kilograms) as arguments. Use default arguments for height and weight.
+
+9. Write a Kotlin function that calculates the area of a circle. Use a default value of 3.14 for pi.
+
+10. Write a Kotlin function that takes named arguments 'name', 'age', and 'city' and prints the details of a person.
+
+11. Write a Kotlin function that takes a person's name as an argument and prints a greeting message with the name. The function should return Unit.
+
+12. Write a Kotlin function that takes an integer n as an argument and prints the numbers from 1 to n on separate lines. The function should return Unit.
+
+13. Write a Kotlin function that takes a list of integers as an argument and prints only the even numbers in the list. The function should return Unit.
+
+14. Write a Kotlin single-expression function that takes a number as an argument and returns true if it is negative, false otherwise.
+
+15. Write a Kotlin function that prints a pattern of asterisks based on a given size. The size represents the number of rows and columns in the pattern. Use a single-expression function.
+
+16 Write a Kotlin function that takes two numbers as arguments and returns their sum. Explicitly specify the return type.
+
+17 Write a Kotlin function that takes an integer as an argument and returns a Boolean indicating whether the number is prime or not. Use explicit return type.
+
+18 Write a Kotlin function that takes a variable number of arguments (varargs) and calculates the average of those numbers.
+
+19 Write an Kotlin infix function that checks if a number is divisible by another number.
+
+20 Write a Kotlin function inside another function that calculates the square of a number.
+
+21 Write a Kotlin generic function that swaps the values of two variables.
+
+22 Write a Kotlin function that calculates the sum of a given arithmetic or geometric series. The function should take the first term, common difference/ratio, and the number of terms as arguments. Use generic types to handle both arithmetic and geometric series.
